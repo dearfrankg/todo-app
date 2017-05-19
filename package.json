@@ -12,8 +12,12 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "redux": "^3.6.0",
+    "uuid": "^3.0.1"
   },
   "devDependencies": {
     "nwb": "0.15.x"
